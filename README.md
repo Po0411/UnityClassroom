@@ -16,4 +16,4 @@
 **1.** [<code>Gridbox Prototype Materials</code>](https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127)
 
 ## 🔗 외부 링크
-(여기에 추가할 내용 입력)
+**1.** [<code>Mixamo</code>](https://www.mixamo.com/#/)
